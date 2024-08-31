@@ -1,6 +1,6 @@
 # C++ Programming Portfolio
 
-Welcome to my C++ Programming Portfolio! This repository contains a collection of C++ programs that I've developed, organized by different topics and assignments. Whether you're a student, educator, or fellow developer, I hope you find this repository helpful for learning or reference.
+Welcome to my C++ Programming Portfolio! This repository contains a collection of C++ programs that I've solved by different topics and assignments. Whether you're a student, educator, or fellow developer, I hope you find this repository helpful for learning or reference.
 
 ## Repository Structure
 
@@ -25,15 +25,9 @@ To explore the programs:
 1. **Clone the Repository**  
    ```bash
    git clone https://github.com/yourusername/cpp-programming-portfolio.git
-1. **Navigate to the Desired Directory**
-   Each directory contains .c files with well-commented code. You can compile and run the programs using a C compiler like GCC.
-   ```bash
-   cd Class\ &\ Object\ ASMT\ 32
-   g++ -o outputfile programfile.cpp./outputfile
-
 
 ## Purpose of This Repository
-This repository serves as a personal archive of my journey in learning C programming. Each folder corresponds to specific assignments or topics, and the code within is written to solve various programming challenges.
+This repository serves as a personal archive of my journey in learning C++ programming. Each folder corresponds to specific assignments or topics, and the code within is written to solve various programming challenges.
 
  ## Connect with Me
  If you have any questions, suggestions, or just want to connect, feel free to reach out:
